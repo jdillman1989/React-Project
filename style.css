@@ -4,7 +4,7 @@ html{
 	 
 }
 
-body {
+body{
 	width: 100%;
 	height: 100%;
 	margin: 0;
@@ -48,4 +48,9 @@ p{
 	width: 75%;
 	flex-basis: auto;
 	background-color: #505C66;
+}
+
+svg{
+	width: 100%;
+	height: auto;
 }
