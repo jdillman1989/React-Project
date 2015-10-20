@@ -6,7 +6,7 @@
 
 	<script type="text/javascript" src="js/middleearth.js"></script>
 
-	<link rel='stylesheet' href='temp/style.css' type='text/css' media='all' />
+	<link rel='stylesheet' href='style.css' type='text/css' media='all' />
 </head>
 
 <body>
