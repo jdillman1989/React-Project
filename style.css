@@ -31,7 +31,7 @@ p{
 }
 
 .sidebar{
-	width: 33.3%;
+	width: 25%;
 	flex-basis: auto;
 	background-color: #FFF;
 }
@@ -45,7 +45,7 @@ p{
 }
 
 .map{
-	width: 66.6%;
+	width: 75%;
 	flex-basis: auto;
 	background-color: #505C66;
 }
