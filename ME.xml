@@ -1,0 +1,45 @@
+<MiddleEarth>
+
+	<Eriador>
+		<Shire/>
+		<Forlindon/>
+		<Harlindon/>
+		<Minhiriath/>
+		<Endedwaith/>
+		<Rhudaur/>
+		<Arnor/>
+		<Forodwaith/>
+	</Eriador>
+
+	<Rhovanion>
+		<Mirkwood/>
+		<Erebor/>
+		<GladdenFields/>
+		<Lorien/>
+		<WeatheredHeath/>
+		<BrownLands/>
+	</Rhovanion>
+
+	<Rohan>
+		<WestEmnet/>
+		<EastEmnet/>
+		<Anorien/>
+		<Fangorn/>
+	</Rohan>
+
+	<Gondor>
+		<Ithilien/>
+		<Lossarnach/>
+		<Lebennin/>
+		<Belfalas/>
+		<Anfalas/>
+		<Harondor/>
+	</Gondor>
+
+	<Mordor>
+		<Udun/>
+		<Gorgoroth/>
+		<Nurn/>
+	</Mordor>
+
+</MiddleEarth>
