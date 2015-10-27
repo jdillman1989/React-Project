@@ -6,12 +6,14 @@ var RegionInfo =  React.createClass({
 			<div className="sidebar">
 				<div className="region-info">
 
-					<h2>Test</h2>
+					<h2>{this.props.regionTitle}</h2>
 
-					<p>This is test info for the initial app layout.</p>
+					<p>{this.props.regionInfo}</p>
 				</div>
 
 				<div className="region-image">
+
+					{this.props.regionImage}
 					
 					<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 759 218">
 					<path d="M52.3,146.2c-12.8,7.4-25.1,14.4-37.3,21.5c-0.2-0.3-0.4-0.6-0.6-0.9c13.1-10.3,26.2-20.7,38.5-30.4

@@ -1,0 +1,97 @@
+[
+	"regions": {
+		"title": "Middle Earth",
+		"info": "This is where information about Middle Earth displays.",
+		"image": "SVG CODE",
+
+		"eriador": {
+			"title": "Eriador",
+			"info": "This is where information about Eriador displays.",
+			"image": "SVG CODE",
+
+			"shire": {
+				"title": "The Shire",
+				"info": "This is where information about The Shire displays.",
+				"image": "SVG CODE"
+			},
+
+			"forlindon": {
+				"title": "Forlindon",
+				"info": "This is where information about Forlindon displays.",
+				"image": "SVG CODE"
+			}
+		},
+
+		"rhovanion": {
+			"title": "Rhovanion",
+			"info": "This is where information about Rhovanion displays.",
+			"image": "SVG CODE",
+
+			"mirkwood": {
+				"title": "Mirkwood",
+				"info": "This is where information about Mirkwood displays.",
+				"image": "SVG CODE"
+			},
+
+			"erebor": {
+				"title": "Erebor",
+				"info": "This is where information about Erebor displays.",
+				"image": "SVG CODE"
+			}
+		},
+
+		"rohan": {
+			"title": "Rohan",
+			"info": "This is where information about Rohan displays.",
+			"image": "SVG CODE",
+
+			"westemnet": {
+				"title": "West Emnet",
+				"info": "This is where information about West Emnet displays.",
+				"image": "SVG CODE"
+			},
+
+			"eastemnet": {
+				"title": "East Emnet",
+				"info": "This is where information about East Emnet displays.",
+				"image": "SVG CODE"
+			}
+		},
+
+		"gondor": {
+			"title": "Gondor",
+			"info": "This is where information about Gondor displays.",
+			"image": "SVG CODE",
+
+			"ithilien": {
+				"title": "Ithilien",
+				"info": "This is where information about Ithilien displays.",
+				"image": "SVG CODE"
+			},
+
+			"lossarnach": {
+				"title": "Lossarnach",
+				"info": "This is where information about Lossarnach displays.",
+				"image": "SVG CODE"
+			}
+		},
+
+		"mordor": {
+			"title": "Mordor",
+			"info": "This is where information about Mordor displays.",
+			"image": "SVG CODE",
+
+			"udun": {
+				"title": "Udun",
+				"info": "This is where information about Udun displays.",
+				"image": "SVG CODE"
+			},
+
+			"gorgoroth": {
+				"title": "Gorgoroth",
+				"info": "This is where information about Gorgoroth displays.",
+				"image": "SVG CODE"
+			}
+		}
+	}
+]

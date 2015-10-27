@@ -5,7 +5,7 @@ var Main =  React.createClass({
 		return(
 
 			<div className="container">
-				<RegionInfo/>
+				<RegionInfo regionTitle="Eriador" regionInfo="This is where information about Eriador displays." regionImage="Test"/>
 				<MiddleEarth/>
 			</div>
 		);
